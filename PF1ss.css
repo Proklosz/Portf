@@ -55,5 +55,8 @@
 .backgroundvid{
     position: fixed;
     left: 0px;
-
+    width:100%;
+}
+#image{
+    width:100%;
 }
